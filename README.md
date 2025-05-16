@@ -1,4 +1,4 @@
-# formasgeometricas
+# formas geometricas
 
 ### este repositório contém os codigos para calcular a área das seguintes formas geometricas
 
